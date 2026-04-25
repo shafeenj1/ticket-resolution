@@ -20,7 +20,7 @@ To create tickets, users must access the ticket portal and log in if required. F
 <br />
 
 <p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1862" height="845" alt="image" src="https://github.com/user-attachments/assets/7e4fdd7d-7826-4383-9f3d-b258b7a582a3" />
 <img src="https://i.imgur.com/COfD3VN.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
