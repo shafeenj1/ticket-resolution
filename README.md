@@ -8,9 +8,9 @@ This lab demonstrates how a ticket progresses from initial intake to final resol
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/kTlhwFo.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/RlHNrkW.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/ApsciFm.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1363" height="736" alt="image" src="https://github.com/user-attachments/assets/b4e049e5-2874-4caf-abc4-0e9aece856f2" />
+<img width="1356" height="731" alt="image" src="https://github.com/user-attachments/assets/6a5e4d6b-38bf-4b34-99cb-646c88f62af1" />
+
 </p>
 <p>
 In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
