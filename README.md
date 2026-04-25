@@ -43,4 +43,4 @@ Thorough documentation is just as essential. Properly recording each ticket ensu
 
 <h2>Lessons Learned</h2>
 
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
+Ticket management processes can vary based on the workplace. Some environments may require a certain number of tickets to be completed within a set timeframe, while others emphasize prioritizing issues based on urgency. Through building osTicket from the ground up, I gained hands-on insight into how ticketing systems function within an IT role.
