@@ -21,7 +21,8 @@ To create tickets, users must access the ticket portal and log in if required. F
 
 <p>
 <img width="1862" height="845" alt="image" src="https://github.com/user-attachments/assets/7e4fdd7d-7826-4383-9f3d-b258b7a582a3" />
-<img width="1668" height="943" alt="image" src="https://github.com/user-attachments/assets/c7b08035-298f-4ef1-b27d-ca876849302a" />
+<img width="1694" height="928" alt="image" src="https://github.com/user-attachments/assets/2dd6ab5a-5539-467f-9a1e-bbc334e4b9ed" />
+
 </p>
 <p>
 From the perspective of an admin, they will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Here, Jane viewed this ticket and assigned it to the System Administrators and changed the severity level to Emergency. 
