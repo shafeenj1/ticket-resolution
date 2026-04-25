@@ -15,7 +15,7 @@ This lab demonstrates how a ticket progresses from initial intake to final resol
 
 </p>
 <p>
-In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
+To create tickets, users must access the ticket portal and log in if required. From there, they can submit a request describing their IT issue. In this example, I created three tickets representing different types of problems commonly seen in real environments. Each ticket includes a Help Topic, a brief summary of the issue, and a detailed description written in an email-style format.
 </p>
 <br />
 
