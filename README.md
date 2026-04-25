@@ -25,7 +25,7 @@ To create tickets, users must access the ticket portal and log in if required. F
 
 </p>
 <p>
-From the perspective of an admin, they will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Here, Jane viewed this ticket and assigned it to the System Administrators and changed the severity level to Emergency. 
+From an administrator’s standpoint, ticket requests appear in their panel once submitted. They can review these requests and route them to the appropriate agent or team. Each issue is evaluated for severity so it can be prioritized and resolved within the defined SLA. In this case, Jane reviewed the ticket, assigned it to the System Administrators, and escalated its severity to Emergency.
 </p>
 <br />
 
