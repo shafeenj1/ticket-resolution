@@ -37,8 +37,8 @@ From the perspective of an admin, they will receive the ticket requests from the
 
 </p>
 <p>
-When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
-</p>
+Handling tickets effectively depends on clear and consistent communication. Team members need to stay in sync with each other while also keeping impacted users informed. As tickets vary in complexity, they are distributed to the appropriate individuals for example, one ticket might be passed from Jane to John, while Jane may resolve another on her own.
+Thorough documentation is just as essential. Properly recording each ticket ensures there’s a reliable reference point if the same or a similar issue arises later, helping streamline future resolutions.</p>
 <br />
 
 <h2>Lessons Learned</h2>
