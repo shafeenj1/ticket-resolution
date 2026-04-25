@@ -8,8 +8,10 @@ This lab demonstrates how a ticket progresses from initial intake to final resol
 <h2>Lifecycle Stages</h2>
 
 <p>
+
+<img width="1356" height="731" alt="image" src="https://github.com/user-attachments/assets/6a5e4d6b-38bf-4b34-99cb-646c88f62af1" />  
 <img width="1363" height="736" alt="image" src="https://github.com/user-attachments/assets/b4e049e5-2874-4caf-abc4-0e9aece856f2" />
-<img width="1356" height="731" alt="image" src="https://github.com/user-attachments/assets/6a5e4d6b-38bf-4b34-99cb-646c88f62af1" />
+
 
 </p>
 <p>
