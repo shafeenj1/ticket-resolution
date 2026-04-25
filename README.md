@@ -29,7 +29,8 @@ From the perspective of an admin, they will receive the ticket requests from the
 <br />
 
 <p>
-<img src="https://i.imgur.com/Y1OaeVl.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1293" height="750" alt="image" src="https://github.com/user-attachments/assets/b1e475eb-b713-4810-8704-460c530717d4" />
+  
 <img src="https://i.imgur.com/pU3kh02.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/YhXK7WL.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
