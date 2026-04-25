@@ -9,7 +9,7 @@ This lab demonstrates how a ticket progresses from initial intake to final resol
 
 <p>
 
-<img width="1356" height="731" alt="image" src="https://github.com/user-attachments/assets/6a5e4d6b-38bf-4b34-99cb-646c88f62af1" />  
+<img width="1335" height="715" alt="image" src="https://github.com/user-attachments/assets/321f549c-5aa9-42ac-b952-0a56917d86cb" />
 <img width="1363" height="736" alt="image" src="https://github.com/user-attachments/assets/b4e049e5-2874-4caf-abc4-0e9aece856f2" />
 
 
